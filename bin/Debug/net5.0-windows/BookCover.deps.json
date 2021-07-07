@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BookCover/1.0.0": {
+        "runtime": {
+          "BookCover.dll": {}
+        },
+        "resources": {
+          "pl-PL/BookCover.resources.dll": {
+            "locale": "pl-PL"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookCover/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
